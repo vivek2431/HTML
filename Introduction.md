@@ -21,12 +21,12 @@ Here's a basic example of HTML code:
 </html>
 ```
 In this example:
+# HTML Document Structure Overview
 
--  DOCTYPE html: Declares the document type and version of HTML being used.
--  html: The root element of the HTML document.
--  head: Contains meta-information about the document, such as its title, character encoding, and viewport settings.
--  meta: Defines metadata about the HTML document.
--  title: Sets the title of the web page, displayed in the browser's title bar or tab.
--  body: Contains the content of the web page, including text, images, links, etc.
--  h1, pimg, a: Various HTML elements for heading, paragraph, image, and anchor (link) respectively.
-HTML is highly versatile and can be combined with CSS (Cascading Style Sheets) and JavaScript to create visually appealing and interactive web pages.
+- `<!DOCTYPE html>`: Declares the document type and version of HTML being used.
+- `<html>`: The root element of the HTML document.
+- `<head>`: Contains meta-information about the document, such as its title, character encoding, and viewport settings.
+- `<meta>`: Defines metadata about the HTML document.
+- `<title>`: Sets the title of the web page, displayed in the browser's title bar or tab.
+- `<body>`: Contains the content of the web page, including text, images, links, etc.
+- `<h1>`, `<p>`, `<img>`, `<a>`: Various HTML elements for heading, paragraph, image, and anchor (link) respectively.
