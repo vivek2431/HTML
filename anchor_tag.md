@@ -18,7 +18,7 @@ The anchor tag, `<a>`, is used to create hyperlinks in HTML. Here are some commo
   Example: `<a href="https://www.example.com" target="_blank">Visit Example Website</a>`
 
 - `title`: Provides additional information about the linked document, often displayed as a tooltip when the user hovers over the link.
-  Example: `<a href="https://www.example.com" title="Visit Example Website">Link</a>`
+  Example: `<a href="https://www.example.com" title="Visit Example Website">Link</a>`.
 
 - `download`: Specifies that the target will be downloaded when the user clicks on the hyperlink. This attribute is used when the href attribute points to a downloadable file.
   Example: `<a href="example.pdf" download>Download PDF</a>`
